@@ -3,7 +3,7 @@
 Un serveur permettant d’exécuter des binaires signés a récemment fait évoluer sa politique de sécurité. Montrer qu’elle n’est pas à la hauteur des attentes de l’administrateur du serveur.
 
 
-Auteur : [Cryptanalyse](https://twitter.com/Cryptanalyse)
+Auteur : Guena
 
 Origine : [GroundRule](https://hackropole.fr/fr/challenges/crypto/fcsc2020-crypto-groundrule/)
 
